@@ -1,0 +1,69 @@
+.nvl1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.label{
+    color: #6c757d;
+    font-weight: bold;
+    font-size: small;
+    
+}
+.infoLabel{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    
+}
+.inputs{
+    width: 12.5vw;
+    height: 2.5vw;
+    background-color: white;
+    border-radius: 2px;
+    color: black;
+}
+
+.nvl2{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+.botoes{
+    display: flex;
+    flex-direction: row;
+    padding-top: 3vw;
+    padding-left: 32.5vw;
+}
+
+.prox{
+    height: 1.8vw;
+    width: 4.7vw;
+    background-color: #2b2c2b;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.voltar{
+    height: 1.8vw;
+    width: 4.7vw;
+    background-color: #6c757d;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.divProx{
+    padding-right: 0.5vw;
+}
+
+.msgAlert{
+    padding-top: 10px;
+    color: red;
+    font-size: small;
+}

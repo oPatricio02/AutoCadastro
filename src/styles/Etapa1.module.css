@@ -1,0 +1,32 @@
+.etp{
+    padding: 10px;
+    color: #6c757d;
+}
+
+.form{
+    display: flex;
+    flex-direction:column;
+}
+
+.input{
+    width: 15vw;
+    height: 2.5vw;
+    background-color: white;
+    border-radius: 2px;
+    color: black;
+}
+
+.botao{
+    height: 2.5vw;
+    width: 6vw;
+    background-color: #6c757d;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+
+.renderizacao{
+    display: flex;
+    flex-direction: row;
+}
